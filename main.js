@@ -1,6 +1,6 @@
-let user = {
+const user = {
     name : Valera
 };
-let number;
+let number = 28;
 let count;
 let calculator;
